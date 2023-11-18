@@ -1,4 +1,4 @@
-# 🚀 MERN Real Estate App Showcase
+# MERN Real Estate App Showcase
 
 Welcome to my MERN Real Estate App Showcase! This project reflects my journey in web development and highlights the skills and technologies I've mastered. Whether you're here as an industry peer or potential employer, feel free to explore the features and functionalities that demonstrate my expertise in modern web development.
 
